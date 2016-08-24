@@ -1,4 +1,4 @@
-# hacked-OR-not v1.1
+# hacked-OR-not v1.2
 "hacked OR not" cross-checks your email with all matching compromised data and with those obtained from the rest of security breaches. 'Email Found' means that you're email and password are available to public.
 
 ## Installation
